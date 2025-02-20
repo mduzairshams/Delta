@@ -1,2 +1,2 @@
 # Delta
-We are learning Git &amp; Github
+We are learning Git &amp; Github class
